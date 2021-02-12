@@ -4,8 +4,6 @@
 
 ## :runner: To run this project ?
 
-In project's root, run:
+In project's root folder, run: `python3 matrix.py`
 
-`python3 matrix.py`
-
-Know the **unicode ranges**: http://www.rikai.com/library/kanjitables/kanji_codes.unicode.shtml
+About **unicode ranges**: http://www.rikai.com/library/kanjitables/kanji_codes.unicode.shtml
