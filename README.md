@@ -4,8 +4,6 @@
 
 ## :runner: To run this project ?
 
-Live demo [here](https://repl.it/repls/PracticalCharmingStartups).
-
 In project's root, run:
 
 `python3 matrix.py`
