@@ -7,4 +7,4 @@
 In project's root folder, run: `python3 main.py`
 
 **Based On:**
-- [Unicode ranges](http://www.rikai.com/library/kanjitables/kanji_codes.unicode.shtml);
+- [Rikai - Unicode ranges](http://www.rikai.com/library/kanjitables/kanji_codes.unicode.shtml);
